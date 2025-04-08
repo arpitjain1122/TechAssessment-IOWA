@@ -56,7 +56,7 @@ git clone https://github.com/arpitjain1122/TechAssessment-IOWA.git
 
   1. Install MySQL Workbench
   - Ensure that MySQL is installed on your machine.
-  - You can download MySQL from [the official MySQL downloads page](https://dev.mysql.com/downloads/) and follow the installation instructions for your operating system.
+  - You can download MySQL from [the official MySQL downloads page](https://www.mysql.com/products/workbench/) and follow the installation instructions for your operating system.
 
   2. Launch MySQL Workbench and create a database by the name receiptsdb. 
 
