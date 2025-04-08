@@ -54,13 +54,11 @@ git clone https://github.com/arpitjain1122/TechAssessment-IOWA.git
 
 ## MySQL Database Setup
 
-  1. Install MySQL
+  1. Install MySQL Workbench
   - Ensure that MySQL is installed on your machine.
   - You can download MySQL from [the official MySQL downloads page](https://dev.mysql.com/downloads/) and follow the installation instructions for your operating system.
 
-  2. Launch Mysql and create a database by the name receiptsdb. 
-
-  3. Go to receipt-backend folder and open application.properties file. Here you have to enter your mySQL database name and password in the specified brackets.
+  2. Launch MySQL Workbench and create a database by the name receiptsdb. 
 
 ## Installation And Running the Backend
 
@@ -72,3 +70,4 @@ git clone https://github.com/arpitjain1122/TechAssessment-IOWA.git
 
   4. This project runs on the port 9020 as specified in application.properties
 
+Happy Coding !
