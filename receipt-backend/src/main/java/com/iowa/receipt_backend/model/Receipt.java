@@ -19,7 +19,7 @@ public class Receipt {
     private String description;
 
     @Lob
-    @Column(name = "receipt_file", columnDefinition = "BLOB")
+    @Column(name = "receipt_file", columnDefinition = "MEDIUMBLOB")
     private byte[] receiptFile;
 
     // Constructors
