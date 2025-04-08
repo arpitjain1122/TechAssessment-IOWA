@@ -9,10 +9,10 @@ lerna-debug.log*
 
 /node_modules
 /dist
+.angular/cache/
 dist-ssr
 *.local
 
-# Editor directories and files
 .vscode/*
 !.vscode/extensions.json
 .idea
@@ -56,14 +56,3 @@ typings/
 
 # Optional eslint cache
 .eslintcache
-
-
-# Output of 'npm pack'
-*.tgz
-
-# Yarn Integrity file
-.yarn-integrity
-
-# dotenv environment variables file
-.env
-.env.test
