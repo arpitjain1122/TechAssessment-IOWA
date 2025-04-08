@@ -15,7 +15,7 @@ public class ReceiptService {
         try {
             return receiptRepository.save(receipt);
         } catch (DataAccessException ex) {
-            // Log the error appropriately in a production system
+
             ex.printStackTrace();
             throw new Exception("Database error occurred while saving receipt", ex);
         }
